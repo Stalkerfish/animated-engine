@@ -351,6 +351,6 @@ MigrationBackup/
 
 
 ## Ignore Build Files from Webots
-./controllers/my_controller/build/
-./controllers/my_controller
-./controllers/my_controller/my_controller
+controllers/my_controller/build/
+controllers/my_controller
+controllers/my_controller/my_controller
